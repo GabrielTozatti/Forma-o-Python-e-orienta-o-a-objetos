@@ -9,9 +9,9 @@
 
 <h2>Aplicando a Orientação a Objetos</h2>
 <ul>
-    <li>Explorei os fundamentos cruciais da Programação Orientada a Objetos (OO), uma abordagem poderosa para organizar e estruturar códigos.</li>
+    <li>Explorei os fundamentos cruciais da Programação Orientada a Objetos, uma abordagem poderosa para organizar e estruturar códigos.</li>
     <li>Ao longo do caminho, aprendi a utilizar métodos especiais da linguagem Python, como o construtor init, e pratiquei a abstração na escrita de atributos de maneira pythonica.</li>
-    <li>Consolidei meus conhecimentos em programação Orientada a Objetos (POO), entendendo o conceito de herança, métodos especiais e a utilização do super() para acessar métodos da classe pai/mãe.</li>
+    <li>Consolidei meus conhecimentos em programação Orientada a Objetos, entendendo o conceito de herança, métodos especiais e a utilização do super() para acessar métodos da classe pai/mãe.</li>
 </ul>
 
 <h2>Consumo API</h2>
