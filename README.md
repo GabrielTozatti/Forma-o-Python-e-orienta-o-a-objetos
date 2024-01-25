@@ -3,8 +3,13 @@
 
 <h2>Primeira aplicação</h2>
 <ul>
-    <li>Explorando funções básicas como print() e input(), construíndo um programa inicial com 'Hello World' e um menu dinâmico para cadastrar restaurantes.</li>
-    <li>Também foi Abordado condicionais (if-else), funções, módulos, casting, listas, try-except para validação, loops (for), dicionários e operadores ternários.</li>
+    <li>Estabeleci a estrutura básica do programa, compreendendo a importância de módulos e pacotes</li>
+    <li>Utilizei comandos de entrada e saída para interagir com o usuário, proporcionando uma experiência mais dinâmica.</li>
+    <li>Implementei estruturas de controle de fluxo, como condicionais (if-else) e loops, para gerenciar a execução do programa.</li>
+    <li>Manipulei listas e dicionários para armazenar e organizar dados, facilitando o gerenciamento de informações.</li>
+    <li>Defini funções para modularizar o código, promovendo a reutilização e a clareza.</li>
+    <li>Implementei tratamento de exceções para lidar com situações imprevistas e melhorar a robustez do programa.</li>
+    <li>Adotei boas práticas de documentação para garantir a compreensão do código e facilidade na colaboração.</li>
 </ul>
 
 <h2>Aplicando a Orientação a Objetos</h2>
