@@ -9,9 +9,16 @@
 
 <h2>Aplicando a Orientação a Objetos</h2>
 <ul>
-    <li>Explorei os fundamentos cruciais da Programação Orientada a Objetos, uma abordagem poderosa para organizar e estruturar códigos.</li>
-    <li>Ao longo do caminho, aprendi a utilizar métodos especiais da linguagem Python, como o construtor init, e pratiquei a abstração na escrita de atributos de maneira pythonica.</li>
-    <li>Consolidei meus conhecimentos em programação Orientada a Objetos, entendendo o conceito de herança, métodos especiais e a utilização do super() para acessar métodos da classe pai/mãe.</li>
+    <li>Entendi como usar classes como modelos para objetos e criar instâncias específicas.</li>
+    <li>Aprendi a representar características com atributos e comportamentos com métodos em uma classe.</li>
+    <li>Pratiquei o encapsulamento de dados, controlando o acesso por meio de métodos e propriedades.</li>
+    <li>Explorei a herança para reutilizar código, permitindo que uma classe herde características de outra.</li>
+    <li>Compreendi como tratar diferentes classes de maneira uniforme, possibilitando o uso intercambiável de objetos de tipos diferentes.</li>
+    <li>Utilizei métodos especiais para personalizar comportamentos padrão de classes e objetos.</li>
+    <li>Apliquei composição para criar objetos complexos, combinando várias classes.</li>
+    <li>Implementei interfaces e abstração para definir contratos entre classes, facilitando a manutenção e expansão do código.</li>
+    <li>Reconheci e apliquei padrões de design orientados a objetos para resolver problemas comuns.</li>
+    <li>Adotei práticas de programação defensiva para evitar erros e garantir a robustez das classes e objetos.</li>
 </ul>
 
 <h2>Consumo API</h2>
